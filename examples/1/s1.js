@@ -1,3 +1,4 @@
+// Our main script that does the hooking functionality
 console.log("Script loaded successfully ");
 Java.perform(function x() { //Silently fails without the sleep from the python code
     console.log("Inside java perform function");
